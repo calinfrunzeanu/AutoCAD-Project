@@ -18,31 +18,42 @@ This project is a detailed 3D model of the Empire State Building, created in Aut
 ---
 
 ### Motivation
-This project merges my technical skills with a longstanding fascination for architecture. Since childhood, I have admired iconic structures, and the Empire State Building stands out as a marvel of engineering and design. Although my career path is in computer science, this project allowed me to explore the intersection of technology and architectural beauty, a fusion that AutoCAD supports remarkably well.
-
-<p align="center">
-  <img src="images/showcase1.jpg" alt="Empire State Building Model - Motivation" width="800"/>
-</p>
-
-By recreating this iconic skyscraper, I was able to challenge my skills in spatial visualization, accuracy, and detail—all crucial for any complex technical project. The process also offered an opportunity to better understand the intricacies involved in architectural design, enhancing my appreciation for both the creative and technical efforts required to bring such monumental structures to life.
+<table>
+<tr>
+<td>
+This project merges my technical skills with a longstanding fascination for architecture. Since childhood, I have admired iconic structures, and the Empire State Building stands out as a marvel of engineering and design. Although my career path is in computer science, this project allowed me to explore the intersection of technology and architectural beauty, a fusion that AutoCAD supports remarkably well. By recreating this iconic skyscraper, I was able to challenge my skills in spatial visualization, accuracy, and detail—all crucial for any complex technical project. The process also offered an opportunity to better understand the intricacies involved in architectural design, enhancing my appreciation for both the creative and technical efforts required to bring such monumental structures to life.
+</td>
+<td>
+<img src="images/EmpireStateBuilding.dwg (2).png" alt="Empire State Building Image 1" width="15000"/>
+</td>
+</tr>
+</table>
 
 ### Historical Background
-The Empire State Building, located at the intersection of Fifth Avenue and 34th Street in New York City, is not only a globally recognized landmark but also an engineering marvel. Completed in 1931, this building held the record as the world’s tallest structure for over 40 years.
-
-<p align="center">
-  <img src="images/showcase2.jpg" alt="Empire State Building Historical Background" width="800"/>
-</p>
-
-Designed during the Art Deco period, its sleek lines and towering presence make it a symbol of both the era and the innovative spirit of its creators. The building’s significance extends beyond its architectural achievements; it is an icon in popular culture and a testament to the advancements in engineering of its time.
-
-<p align="center">
-  <img src="images/showcase3.jpg" alt="Empire State Building Render" width="800"/>
-</p>
-
-Recognized as one of the Seven Wonders of the Modern World by the American Society of Civil Engineers, the Empire State Building continues to inspire architects, engineers, and artists worldwide.
+<table>
+<tr>
+<td>
+<img src="images/EmpireStateBuilding.dwg (3).png" alt="Empire State Building Image 2" width="30000"/>
+</td>
+<td>
+The Empire State Building, located at the intersection of Fifth Avenue and 34th Street in New York City, is not only a globally recognized landmark but also an engineering marvel. Completed in 1931, this building held the record as the world’s tallest structure for over 40 years. Designed during the Art Deco period, its sleek lines and towering presence make it a symbol of both the era and the innovative spirit of its creators. The building’s significance extends beyond its architectural achievements; it is an icon in popular culture and a testament to the advancements in engineering of its time. Recognized as one of the Seven Wonders of the Modern World by the American Society of Civil Engineers, the Empire State Building continues to inspire architects, engineers, and artists worldwide.
+</td>
+</tr>
+</table>
 
 ### Project Goals and Scope
+<table>
+<tr>
+<td>
 The aim was to create a detailed 3D model of the Empire State Building at a scale of 1:304.8 in AutoCAD. The model includes walls, windows, columns, and entryways, utilizing various 3D techniques. Emphasis was placed on precision in design and realistic material rendering.
+</td>
+<td>
+<img src="images/EmpireStateBuilding.dwg (36).png" alt="Empire State Building Image 3" width="630"/>
+</td>
+</tr>
+</table>
+
+---
 
 ### Development Stages
 Each stage of the project was documented and visualized through images to illustrate progress.
@@ -63,7 +74,24 @@ Functions used:
   <img src="images/0.jpg" alt="Initial Prototype 1" width="250"/>
   <img src="images/1.jpg" alt="Initial Prototype 2" width="250"/>
   <img src="images/2.jpg" alt="Initial Prototype 3" width="250"/>
+</p>
+<p align="center">
   <img src="images/3.jpg" alt="Initial Prototype 4" width="250"/>
+  <img src="images/4.jpg" alt="Initial Prototype 5" width="250"/>
+  <img src="images/5.jpg" alt="Initial Prototype 6" width="250"/>
+</p>
+<p align="center">
+  <img src="images/6.jpg" alt="Initial Prototype 7" width="250"/>
+  <img src="images/7.jpg" alt="Initial Prototype 8" width="250"/>
+  <img src="images/8.jpg" alt="Initial Prototype 9" width="250"/>
+</p>
+<p align="center">
+  <img src="images/9.jpg" alt="Initial Prototype 10" width="250"/>
+  <img src="images/11.jpg" alt="Initial Prototype 11" width="250"/>
+  <img src="images/12.jpg" alt="Initial Prototype 12" width="250"/>
+</p>
+<p align="center">
+  <img src="images/10.jpg" alt="Initial Prototype 13" width="760"/>
 </p>
 
 These images show the base structure, where I began with simple extrusions and moved elements to create the building’s basic shape. Initial layers were applied: **red for walls**, **blue for doors**, and **yellow for door frames**. This stage established the core layout of the model, focusing on the primary dimensions.
@@ -80,10 +108,27 @@ Functions used:
 
 **Gallery**:
 <p align="center">
-  <img src="images/11.jpg" alt="Semi-Finished Prototype 1" width="250"/>
-  <img src="images/12.jpg" alt="Semi-Finished Prototype 2" width="250"/>
-  <img src="images/13.jpg" alt="Semi-Finished Prototype 3" width="250"/>
-  <img src="images/14.jpg" alt="Semi-Finished Prototype 4" width="250"/>
+  <img src="images/13.jpg" alt="Semi-Finished Prototype 1" width="250"/>
+  <img src="images/14.jpg" alt="Semi-Finished Prototype 2" width="250"/>
+  <img src="images/15.jpg" alt="Semi-Finished Prototype 3" width="250"/>
+</p>
+<p align="center">
+  <img src="images/16.jpg" alt="Semi-Finished Prototype 4" width="250"/>
+  <img src="images/17.jpg" alt="Semi-Finished Prototype 5" width="250"/>
+  <img src="images/18.jpg" alt="Semi-Finished Prototype 6" width="250"/>
+</p>
+<p align="center">
+  <img src="images/19.jpg" alt="Semi-Finished Prototype 7" width="250"/>
+  <img src="images/20.jpg" alt="Semi-Finished Prototype 8" width="250"/>
+  <img src="images/21.jpg" alt="Semi-Finished Prototype 9" width="250"/>
+</p>
+<p align="center">
+  <img src="images/22.jpg" alt="Semi-Finished Prototype 10" width="250"/>
+  <img src="images/23.jpg" alt="Semi-Finished Prototype 11" width="250"/>
+  <img src="images/24.jpg" alt="Semi-Finished Prototype 12" width="250"/>
+</p>
+<p align="center">
+  <img src="images/25.jpg" alt="Semi-Finished Prototype 13" width="250"/>
 </p>
 
 This set of images highlights the careful placement of windows using the `array` function to replicate the windows’ positions. `Substract` was applied to create realistic spaces, which significantly improved the model's accuracy. This phase showcases the addition of window frames and placements, using `array` and `mirror` functions for precision alignment.
@@ -99,10 +144,22 @@ Functions used:
 
 **Gallery**:
 <p align="center">
-  <img src="images/21.jpg" alt="Final Model 1" width="250"/>
-  <img src="images/22.jpg" alt="Final Model 2" width="250"/>
-  <img src="images/23.jpg" alt="Final Model 3" width="250"/>
-  <img src="images/24.jpg" alt="Final Model 4" width="250"/>
+  <img src="images/26.jpg" alt="Final Model 1" width="250"/>
+  <img src="images/27.jpg" alt="Final Model 2" width="250"/>
+  <img src="images/28.jpg" alt="Final Model 3" width="250"/>
+</p>
+<p align="center">
+  <img src="images/29.jpg" alt="Final Model 4" width="250"/>
+  <img src="images/30.jpg" alt="Final Model 5" width="250"/>
+  <img src="images/31.jpg" alt="Final Model 6" width="250"/>
+</p>
+<p align="center">
+  <img src="images/32.jpg" alt="Final Model 7" width="250"/>
+  <img src="images/33.jpg" alt="Final Model 8" width="250"/>
+  <img src="images/34.jpg" alt="Final Model 9" width="250"/>
+</p>
+<p align="center">
+  <img src="images/35.jpg" alt="Final Model - Highlighted" width="750"/>
 </p>
 
 These final images demonstrate the model with realistic textures applied:
