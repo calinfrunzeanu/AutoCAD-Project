@@ -24,7 +24,7 @@ This project is a detailed 3D model of the Empire State Building, created in Aut
 This project merges my technical skills with a longstanding fascination for architecture. Since childhood, I have admired iconic structures, and the Empire State Building stands out as a marvel of engineering and design. Although my career path is in computer science, this project allowed me to explore the intersection of technology and architectural beauty, a fusion that AutoCAD supports remarkably well. By recreating this iconic skyscraper, I was able to challenge my skills in spatial visualization, accuracy, and detail—all crucial for any complex technical project. The process also offered an opportunity to better understand the intricacies involved in architectural design, enhancing my appreciation for both the creative and technical efforts required to bring such monumental structures to life.
 </td>
 <td>
-<img src="images/EmpireStateBuilding.dwg (2).png" alt="Empire State Building Image 1" width="630"/>
+<img src="images/EmpireStateBuilding.dwg (2).png" alt="Empire State Building Image 1" width="99999990"/>
 </td>
 </tr>
 </table>
@@ -33,7 +33,7 @@ This project merges my technical skills with a longstanding fascination for arch
 <table>
 <tr>
 <td>
-<img src="images/EmpireStateBuilding.dwg (3).png" alt="Empire State Building Image 2" width="630"/>
+<img src="images/EmpireStateBuilding.dwg (3).png" alt="Empire State Building Image 2" width="99999990"/>
 </td>
 <td>
 The Empire State Building, located at the intersection of Fifth Avenue and 34th Street in New York City, is not only a globally recognized landmark but also an engineering marvel. Completed in 1931, this building held the record as the world’s tallest structure for over 40 years. Designed during the Art Deco period, its sleek lines and towering presence make it a symbol of both the era and the innovative spirit of its creators. The building’s significance extends beyond its architectural achievements; it is an icon in popular culture and a testament to the advancements in engineering of its time. Recognized as one of the Seven Wonders of the Modern World by the American Society of Civil Engineers, the Empire State Building continues to inspire architects, engineers, and artists worldwide.
