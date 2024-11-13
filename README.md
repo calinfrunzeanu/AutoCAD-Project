@@ -128,7 +128,7 @@ Functions used:
   <img src="images/24.jpg" alt="Semi-Finished Prototype 12" width="250"/>
 </p>
 <p align="center">
-  <img src="images/25.jpg" alt="Semi-Finished Prototype 13" width="250"/>
+  <img src="images/Screenshot 2024-11-13 211250.png" alt="Semi-Finished Prototype 13" width="760"/>
 </p>
 
 This set of images highlights the careful placement of windows using the `array` function to replicate the windows’ positions. `Substract` was applied to create realistic spaces, which significantly improved the model's accuracy. This phase showcases the addition of window frames and placements, using `array` and `mirror` functions for precision alignment.
