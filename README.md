@@ -1,0 +1,1 @@
+<iframe src="https://1drv.ms/w/s!At5ImMb4EGo4gZBrnHnv3V0css0pqw?embed=1&amp;em=2" width="476px" height="288px" frameborder="0">Acesta este un document <a target="_blank" href="https://office.com">Microsoft Office</a> încorporat, pe platformă <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
