@@ -21,7 +21,7 @@ This project is a detailed 3D model of the Empire State Building, created in Aut
 This project merges my technical skills with a longstanding fascination for architecture. Since childhood, I have admired iconic structures, and the Empire State Building stands out as a marvel of engineering and design. Although my career path is in computer science, this project allowed me to explore the intersection of technology and architectural beauty, a fusion that AutoCAD supports remarkably well.
 
 <p align="center">
-  <img src="images/showcase1.jpg" alt="Empire State Building Model - Motivation" width="800"/>
+  <img src="images/1.jpg" alt="Empire State Building Model - Motivation" width="800"/>
 </p>
 
 By recreating this iconic skyscraper, I was able to challenge my skills in spatial visualization, accuracy, and detail—all crucial for any complex technical project. The process also offered an opportunity to better understand the intricacies involved in architectural design, enhancing my appreciation for both the creative and technical efforts required to bring such monumental structures to life.
