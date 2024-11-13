@@ -21,7 +21,7 @@ This project is a detailed 3D model of the Empire State Building, created in Aut
 This project merges my technical skills with a longstanding fascination for architecture. Since childhood, I have admired iconic structures, and the Empire State Building stands out as a marvel of engineering and design. Although my career path is in computer science, this project allowed me to explore the intersection of technology and architectural beauty, a fusion that AutoCAD supports remarkably well.
 
 <p align="center">
-  <img src="images/1.jpg" alt="Empire State Building Model - Motivation" width="800"/>
+  <img src="images/showcase1.jpg" alt="Empire State Building Model - Motivation" width="800"/>
 </p>
 
 By recreating this iconic skyscraper, I was able to challenge my skills in spatial visualization, accuracy, and detail—all crucial for any complex technical project. The process also offered an opportunity to better understand the intricacies involved in architectural design, enhancing my appreciation for both the creative and technical efforts required to bring such monumental structures to life.
@@ -59,8 +59,12 @@ Functions used:
 - **`mirror`**: Simplified symmetry by replicating details on both sides of the building.
 
 **Gallery**:
-![Initial Prototype 1](images/0.jpg) ![Initial Prototype 2](images/1.jpg) ![Initial Prototype 3](images/2.jpg)  
-![Initial Prototype 4](images/3.jpg) ![Initial Prototype 5](images/4.jpg)
+<p align="center">
+  <img src="images/0.jpg" alt="Initial Prototype 1" width="250"/>
+  <img src="images/1.jpg" alt="Initial Prototype 2" width="250"/>
+  <img src="images/2.jpg" alt="Initial Prototype 3" width="250"/>
+  <img src="images/3.jpg" alt="Initial Prototype 4" width="250"/>
+</p>
 
 These images show the base structure, where I began with simple extrusions and moved elements to create the building’s basic shape. Initial layers were applied: **red for walls**, **blue for doors**, and **yellow for door frames**. This stage established the core layout of the model, focusing on the primary dimensions.
 
@@ -75,8 +79,12 @@ Functions used:
 - **`fillet`**: Added subtle rounding to edges for a smoother architectural look.
 
 **Gallery**:
-![Semi-Finished Prototype 1](images/11.jpg) ![Semi-Finished Prototype 2](images/12.jpg) ![Semi-Finished Prototype 3](images/13.jpg)  
-![Semi-Finished Prototype 4](images/14.jpg) ![Semi-Finished Prototype 5](images/15.jpg)
+<p align="center">
+  <img src="images/11.jpg" alt="Semi-Finished Prototype 1" width="250"/>
+  <img src="images/12.jpg" alt="Semi-Finished Prototype 2" width="250"/>
+  <img src="images/13.jpg" alt="Semi-Finished Prototype 3" width="250"/>
+  <img src="images/14.jpg" alt="Semi-Finished Prototype 4" width="250"/>
+</p>
 
 This set of images highlights the careful placement of windows using the `array` function to replicate the windows’ positions. `Substract` was applied to create realistic spaces, which significantly improved the model's accuracy. This phase showcases the addition of window frames and placements, using `array` and `mirror` functions for precision alignment.
 
@@ -90,8 +98,12 @@ Functions used:
 - **`sweep`** and **`loft`**: Created smooth transitions between architectural sections.
 
 **Gallery**:
-![Final Model 1](images/21.jpg) ![Final Model 2](images/22.jpg) ![Final Model 3](images/23.jpg)  
-![Final Model 4](images/24.jpg) ![Final Model 5](images/25.jpg)
+<p align="center">
+  <img src="images/21.jpg" alt="Final Model 1" width="250"/>
+  <img src="images/22.jpg" alt="Final Model 2" width="250"/>
+  <img src="images/23.jpg" alt="Final Model 3" width="250"/>
+  <img src="images/24.jpg" alt="Final Model 4" width="250"/>
+</p>
 
 These final images demonstrate the model with realistic textures applied:
 - **Clear Glass** for windows.
