@@ -13,7 +13,6 @@ This project is a detailed 3D model of the Empire State Building, created in Aut
     - [Final Model](#final-model)
 5. [Technologies and Tools Used](#technologies-and-tools-used)
 6. [Lessons Learned](#lessons-learned)
-7. [Screenshots](#screenshots)
 
 ---
 
