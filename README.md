@@ -159,7 +159,7 @@ Functions used:
   <img src="images/34.jpg" alt="Final Model 9" width="250"/>
 </p>
 <p align="center">
-  <img src="images/35.jpg" alt="Final Model - Highlighted" width="750"/>
+  <img src="images/35.jpg" alt="Final Model - Highlighted" width="760"/>
 </p>
 
 These final images demonstrate the model with realistic textures applied:
